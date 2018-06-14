@@ -4,48 +4,53 @@ body {
 	font-family: 'Braggadocio';
 }
 .main-header {
-	width: 100%;
+	text-align: center;
+	width: 80rem;
 	height: auto;
 	margin-top: 1.5rem;
 }
 .artist-name {
 	float: left;
 	font-size: 4rem;
-	margin-top: 0rem;
-	padding-right: 31.4rem;
+	margin-top: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 28rem;
 }
 li {
 	float: left;
 	list-style: none;
-	padding-top: 1rem;
+	padding-top: 1.5rem;
 	padding-left: 2.5rem;
 	font-size: 2rem;
 }
 li:hover {
 	text-decoration: underline;
 }
-.music-container {
+.music-box-1 {
 	clear: both;
 	float: left;
-	position: center;
-	width: auto;
 	border: 3px solid teal;
 	padding: 1rem;
-	margin-bottom: 2rem;
+	margin-bottom: 4.5rem;
+	margin-left: 4.5rem;
 }
-.cover-1 .cover-2 .cover-3 {
-	height: 20rem;
-	width: 20rem;
-}
-.cover-1 .cover-3 {
-	clear: both;
+.music-box-2, .music-box-3 {
 	float: left;
+	border: 3px solid teal;
+	padding: 1rem;
+	margin-bottom: 4.5rem;
+	margin-left: 4.5rem;
 }
-.cover-2 {
+img {
+	display: block;
+	height: 40rem;
+	width: height;
+}
+.cover {
+	
 	float: left;
 }
 audio {
-	clear: both;
 	float: left;
 	align-items: center;
 	width: 100%;
