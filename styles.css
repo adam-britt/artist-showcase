@@ -1,6 +1,6 @@
 body {
 	background-color: tan;
-	color: teal;
+	color: black;
 	font-family: 'Braggadocio';
 }
 .main-header {
@@ -29,14 +29,14 @@ li:hover {
 .music-box-1, .music-box-3 {
 	clear: both;
 	float: left;
-	border: 3px solid teal;
+	border: 3px solid black;
 	padding: 1rem;
 	margin-bottom: 4.5rem;
 	margin-left: 4.5rem;
 }
 .music-box-2, .music-box-4 {
 	float: left;
-	border: 3px solid teal;
+	border: 3px solid black;
 	padding: 1rem;
 	margin-bottom: 4.5rem;
 	margin-left: 4.5rem;
@@ -54,7 +54,4 @@ audio {
 	float: left;
 	align-items: center;
 	width: 100%;
-}
-source {
-
 }
