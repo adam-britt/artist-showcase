@@ -5,7 +5,8 @@ body {
 }
 .main-header {
 	width: 100%;
-	height: ;
+	height: auto;
+	margin-top: 1.5rem;
 }
 .artist-name {
 	float: left;
@@ -25,8 +26,30 @@ li:hover {
 }
 .music-container {
 	clear: both;
-	width: 50%;
-	height: auto;
-	border: 2px solid teal;
-	padding:2rem;
+	float: left;
+	position: center;
+	width: auto;
+	border: 3px solid teal;
+	padding: 1rem;
+	margin-bottom: 2rem;
+}
+.cover-1 .cover-2 .cover-3 {
+	height: 20rem;
+	width: 20rem;
+}
+.cover-1 .cover-3 {
+	clear: both;
+	float: left;
+}
+.cover-2 {
+	float: left;
+}
+audio {
+	clear: both;
+	float: left;
+	align-items: center;
+	width: 100%;
+}
+source {
+
 }
