@@ -1,3 +1,25 @@
 body {
-	color: grey;
+	background-color: tan;
+	color: teal;
+	font-family: 'Braggadocio';
+}
+.main-header {
+	width: 100%;
+	height: ;
+}
+.artist-name {
+	float: left;
+	font-size: 4rem;
+	margin-top: 0rem;
+	padding-right: 31.4rem;
+}
+li {
+	float: left;
+	list-style: none;
+	padding-top: 1rem;
+	padding-left: 2.5rem;
+	font-size: 2rem;
+}
+li:hover {
+	text-decoration: underline;
 }
