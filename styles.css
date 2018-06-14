@@ -5,7 +5,7 @@ body {
 }
 .main-header {
 	text-align: center;
-	width: 80rem;
+	width: 100rem;
 	height: auto;
 	margin-top: 1.5rem;
 }
@@ -13,14 +13,14 @@ body {
 	float: left;
 	font-size: 4rem;
 	margin-top: 0.5rem;
-	padding-left: 1rem;
-	padding-right: 28rem;
+	padding-left: 4.5rem;
+	padding-right: 24.5rem;
 }
 li {
 	float: left;
 	list-style: none;
 	padding-top: 1.5rem;
-	padding-left: 2.5rem;
+	padding-left: 2rem;
 	font-size: 2rem;
 }
 li:hover {
