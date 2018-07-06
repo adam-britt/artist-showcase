@@ -3,14 +3,6 @@ body {
 	color: black;
 	font-family: 'Braggadocio';
 }
-p {
-	margin-left: 5em;
-	width: 80em;
-	float: left;
-	text-decoration: none;
-	color: black;
-	font-style: normal;
-}
 .main-header {
 	text-align: center;
 	width: 100rem;
@@ -33,4 +25,12 @@ li {
 }
 li:hover {
 	text-decoration: underline;
+}
+p {
+	margin-left: 5em;
+	width: 90em;
+	float: left;
+	text-decoration: none;
+	color: black;
+	font-style: normal;
 }
