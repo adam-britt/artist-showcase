@@ -3,8 +3,34 @@ body {
 	color: black;
 	font-family: 'Braggadocio';
 }
-
 p {
-	font-style: normal;
+	margin-left: 5em;
+	width: 80em;
+	float: left;
+	text-decoration: none;
 	color: black;
+	font-style: normal;
+}
+.main-header {
+	text-align: center;
+	width: 100rem;
+	height: auto;
+	margin-top: 1.5rem;
+}
+.artist-name {
+	float: left;
+	font-size: 4rem;
+	margin-top: 0.5rem;
+	padding-left: 4.5rem;
+	padding-right: 32.2rem;
+}
+li {
+	float: left;
+	list-style: none;
+	padding-top: 1.5rem;
+	padding-left: 2rem;
+	font-size: 2rem;
+}
+li:hover {
+	text-decoration: underline;
 }
