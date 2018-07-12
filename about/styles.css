@@ -17,13 +17,14 @@ body {
 	padding-right: 32.2rem;
 }
 li {
+	color: black;
 	float: left;
 	list-style: none;
 	padding-top: 1.5rem;
 	padding-left: 2rem;
 	font-size: 2rem;
 }
-li:hover {
+a:hover {
 	text-decoration: underline;
 }
 p {
