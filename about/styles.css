@@ -27,17 +27,6 @@ li {
 a:hover {
 	text-decoration: underline;
 }
-p {
-	margin-left: 5em;
-	width: 90rem;
-	float: left;
-	text-decoration: none;
-	color: black;
-	font-style: normal;
-}
-span {
-	color: darkblue;
-}
 .artist-pic-box {
 	float: left;
 	border: 3px solid black;
@@ -47,4 +36,20 @@ img {
 	display: block;
 	height: 33rem;
 	width: height;
+}
+.artist-description {
+	float: left;
+	margin-left: 5rem;
+	width: 40rem;
+}
+p {
+	float: left;
+	margin-left: 5em;
+	width: 90rem;
+	text-decoration: none;
+	color: black;
+	font-style: normal;
+}
+span {
+	color: darkblue;
 }
