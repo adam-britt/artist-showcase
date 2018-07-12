@@ -31,6 +31,7 @@ a:hover {
 	float: left;
 	border: 3px solid black;
 	padding: 1rem;
+	margin-left: 5rem;
 }
 img {
 	display: block;
@@ -39,16 +40,18 @@ img {
 }
 .artist-description {
 	float: left;
+	margin-top: 5.5rem;
 	margin-left: 5rem;
-	width: 40rem;
+	width: 33rem;
 }
 p {
 	float: left;
-	margin-left: 5em;
-	width: 90rem;
 	text-decoration: none;
 	color: black;
+	font-family: 'monotype corsiva';
 	font-style: normal;
+	font-size: 2em;
+	text-align: center;
 }
 span {
 	color: darkblue;
