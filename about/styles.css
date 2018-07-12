@@ -35,3 +35,16 @@ p {
 	color: black;
 	font-style: normal;
 }
+span {
+	color: darkblue;
+}
+.artist-pic-box {
+	float: left;
+	border: 3px solid black;
+	padding: 1rem;
+}
+img {
+	display: block;
+	height: 33rem;
+	width: height;
+}
