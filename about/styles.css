@@ -27,11 +27,20 @@ li {
 a:hover {
 	text-decoration: underline;
 }
-.artist-pic-box {
+.artist-pic-box-one {
 	float: left;
 	border: 3px solid black;
 	padding: 1rem;
-	margin-left: 5rem;
+	margin-top: 2rem;
+	margin-left: 3rem;
+}
+
+.artist-pic-box-two {
+	float: left;
+	border: 3px solid black;
+	padding: 1rem;
+	margin-top: 2rem;
+	margin-left: 3rem;
 }
 img {
 	display: block;
@@ -39,9 +48,10 @@ img {
 	width: height;
 }
 .artist-description {
+	clear: both;
 	float: left;
-	margin-top: 5.5rem;
-	margin-left: 5rem;
+	margin-top: 20rem;
+	margin-left: 5.5rem;
 	width: 33rem;
 }
 p {
@@ -51,7 +61,6 @@ p {
 	font-family: 'monotype corsiva';
 	font-style: normal;
 	font-size: 2em;
-	text-align: center;
 }
 span {
 	color: darkblue;
