@@ -32,6 +32,7 @@ a:hover {
 	float: left;
 	border: 3px solid black;
 	padding: 1rem;
+	margin-bottom: 4.5rem;
 	margin-left: 4.5rem;
 }
 .music-box-2, .music-box-4 {
