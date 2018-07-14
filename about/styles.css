@@ -32,15 +32,13 @@ a:hover {
 	float: left;
 	border: 3px solid black;
 	padding: 1rem;
-	margin-top: 0.5rem;
-	margin-left: 4.8rem;
+	margin-left: 4.9rem;
 }
 .artist-pic-box-two {
 	float: left;
 	border: 3px solid black;
 	padding: 1rem;
-	margin-top: 0.5rem;
-	margin-left: 9.8rem;
+	margin-left: 9.7rem;
 }
 img {
 	display: block;
@@ -50,17 +48,17 @@ img {
 .artist-description {
 	clear: both;
 	float: left;
-	margin-top: 0.5rem;
 	margin-left: 6rem;
 	width: 87rem;
 }
 p {
 	float: left;
 	text-decoration: none;
+	text-align: center;
 	color: black;
 	font-family: 'monotype corsiva';
 	font-style: normal;
-	font-size: 1.7em;
+	font-size: 2.25em;
 }
 span {
 	color: darkblue;
