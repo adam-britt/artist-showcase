@@ -35,9 +35,14 @@ p {
 	color: black;
 	font-style: normal;
 }
-#map {
+.phone-number {
 	clear: both;
 	float: left;
+}
+.phone-number, .address, .email {
+	margin-right: 4rem;
+}
+#map {
 	position: absolute;
     top: 50%;
     left: 50%;
