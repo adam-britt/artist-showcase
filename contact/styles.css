@@ -35,7 +35,30 @@ p {
 	color: black;
 	font-style: normal;
 }
-.email, .address, .phone-number, .city-state{
+.email-logo, .address-logo, .phone-logo {
+	width: 5rem;
+	height: 5rem;
+	position: absolute;
+}
+.email-logo {
+	margin-top: 9.5rem;
+	margin-left: 17rem;
+}
+.address-logo {
+	margin-top: 9.9rem;
+	margin-left: 49.5rem;
+}
+.phone-logo {
+	width: 4.4rem;
+	height: 4.2rem;
+	margin-top: 10rem;
+	margin-left: 77rem;
+}
+img {
+	max-width:100%;
+	max-height:100%;
+}
+.email, .address, .phone, .city {
 	float: left;
 	font-size: 2.2rem;
 	font-family: 'monotype corsiva';
@@ -45,17 +68,16 @@ p {
 	margin-left: 9rem;
 	margin-top: 5rem;
 }
-.address, .phone-number {
+.address, .phone {
 	margin-left: 12.5rem;
 	margin-top: 5rem;
 }
-.city-state {
+.city {
 	clear: both;
 	position: absolute;
 	margin-left: 46.5rem;
 	margin-top: 15.3rem;
 }
-
 #map {
 	position: absolute;
     top: 50%;
