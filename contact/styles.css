@@ -35,22 +35,25 @@ p {
 	color: black;
 	font-style: normal;
 }
-.email, .address, .phone-number, .city-state {
+.email, .address, .phone-number, .city-state{
 	float: left;
 	font-size: 2.2rem;
-	margin-top: 2.2rem;
 	font-family: 'monotype corsiva';
 }
 .email {
 	clear: both;
 	margin-left: 9rem;
+	margin-top: 5rem;
 }
 .address, .phone-number {
 	margin-left: 12.5rem;
+	margin-top: 5rem;
 }
 .city-state {
 	clear: both;
-	margin-left: 22rem;
+	position: absolute;
+	margin-left: 46.5rem;
+	margin-top: 15.3rem;
 }
 
 #map {
