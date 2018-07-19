@@ -35,13 +35,22 @@ p {
 	color: black;
 	font-style: normal;
 }
+.phone-number, .address, .email {
+	font-size: 2.2rem;
+	margin-top: 2.2rem;
+	margin-right: 11rem;
+	float: left;
+	font-family: 'monotype corsiva';
+}
 .phone-number {
 	clear: both;
-	float: left;
+	margin-left: 12rem;
+	
 }
-.phone-number, .address, .email {
-	margin-right: 4rem;
+.address {
+	
 }
+
 #map {
 	position: absolute;
     top: 50%;
